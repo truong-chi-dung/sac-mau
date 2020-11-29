@@ -1,0 +1,117 @@
+Return-Path: <>
+Delivered-To: info@sacmausocial.org
+Received: from ns.vnso.vn
+	by ns.vnso.vn with LMTP
+	id TdPmF8qPl189HwAA0EY2yA
+	(envelope-from <>)
+	for <info@sacmausocial.org>; Tue, 27 Oct 2020 10:11:06 +0700
+Return-path: <>
+Envelope-to: info@sacmausocial.org
+Delivery-date: Tue, 27 Oct 2020 10:11:06 +0700
+Received: from mail by ns.vnso.vn with local (Exim 4.92.3)
+	id 1kXFO6-0002Jm-BK
+	for info@sacmausocial.org; Tue, 27 Oct 2020 10:11:06 +0700
+X-Failed-Recipients: sacmausocial@sacmau.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@ns.vnso.vn>
+To: info@sacmausocial.org
+Content-Type: multipart/report; report-type=delivery-status; boundary=1603768266-eximdsn-1138472473
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1kXFO6-0002Jm-BK@ns.vnso.vn>
+Date: Tue, 27 Oct 2020 10:11:06 +0700
+
+--1603768266-eximdsn-1138472473
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  sacmausocial@sacmau.com
+    all hosts for 'sacmau.com' have been failing for a long time (and retry time not reached)
+
+--1603768266-eximdsn-1138472473
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; ns.vnso.vn
+
+Action: failed
+Final-Recipient: rfc822;sacmausocial@sacmau.com
+Status: 5.0.0
+
+--1603768266-eximdsn-1138472473
+Content-type: message/rfc822
+
+Return-path: <info@sacmausocial.org>
+Received: from vps236223.superdata.vn ([103.1.236.223] helo=sacmausocial.org)
+	by ns.vnso.vn with esmtpa (Exim 4.92.3)
+	(envelope-from <info@sacmausocial.org>)
+	id 1kXFO5-0002Ji-Sx
+	for sacmausocial@sacmau.com; Tue, 27 Oct 2020 10:11:05 +0700
+Date: Tue, 27 Oct 2020 10:11:05 +0700
+To: sacmausocial@sacmau.com
+From: "New: DA50 for sacmausocial.org" <info@sacmausocial.org>
+Reply-to: "New: DA50 for sacmausocial.org" <info@sacmausocial.org>, "New: DA50 for sacmausocial.org" <no-replySem@google.com>
+Subject: DONATE - New: DA50 for sacmausocial.org
+Message-ID: <6c74d9b01029136033b514d2f8be9fca@sacmausocial.org>
+X-Priority: 3
+X-Mailer: PHPMailer 5.1 (phpmailer.sourceforge.net)
+MIME-Version: 1.0
+Content-Transfer-Encoding: 8bit
+Content-Type: text/html; charset="utf-8"
+
+<h3 style="text-align: center;">THÔNG TIN <span style="color:red">DONATE</span></h3><table rules="all" style="border-color:#ccc;border:1px solid #ccc;width:400px;padding:5px;text-align: center;margin:auto;">
+				
+				<tr>
+					<th colspan="2">Thư liên hệ từ website <a href="sacmausocial.org">sacmausocial.org</a></th>
+				</tr>
+				<tr>
+					<th colspan="2">&nbsp;</th>
+				</tr>
+				<tr>
+					<th>Tên cá nhân :</th><td>New: DA50 for sacmausocial.org</td>
+				</tr>
+				<tr>
+					<th>Tên tổ chức :</th><td></td>
+				</tr>
+				<tr>
+					<th>Điện Thoại :</th><td></td>
+				</tr>
+				<tr>
+					<th>Email :</th><td>no-replySem@google.com</td>
+				</tr>
+				<tr>
+					<th>Mục đích</th><td><br><br></td>
+				</tr>
+				<tr>
+					<th>Cho dự án: </th><td><br><br><br><br><br></td>
+				</tr>
+				<tr>
+					<th>Nội dung :</th><td>Hi there 
+ 
+If you want to get ahead of your competition, have a higher Domain Authority score. Its just simple as that. 
+With our service you get Domain Authority above 50 points in just 30 days. 
+ 
+This service is guaranteed 
+ 
+For more information, check our service here 
+https://www.monkeydigital.co/Get-Guaranteed-Domain-Authority-50/ 
+ 
+N E W : 
+DA60 is now available here 
+https://www.monkeydigital.co/product/moz-da60-seo-plan/ 
+ 
+ 
+thank you 
+Mike Wainwright
+ 
+Monkey Digital 
+support@monkeydigital.co</td>
+				</tr>
+				</table>
+
+
+
+--1603768266-eximdsn-1138472473--

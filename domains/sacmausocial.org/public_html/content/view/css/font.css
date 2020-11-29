@@ -1,0 +1,128 @@
+﻿
+
+
+
+@font-face {
+
+    font-family: 'utm_alter_gothic_web';
+
+    src: url(content/view/fonts/utm_alter_gothic-webfont.eot);
+
+    src: url(content/view/fonts/utm_alter_gothic-webfontd41d.eot?#iefix) format('embedded-opentype'),url(content/view/fonts/utm_alter_gothic-webfont.woff) format('woff'),url(content/view/fonts/utm_alter_gothic-webfont.ttf) format('truetype'),url(content/view/fonts/utm_alter_gothic-webfont.svg#utm_alter_gothicregular) format('svg');
+
+    font-weight: normal;
+
+    font-style: normal;
+
+}
+
+
+
+@font-face {
+
+    font-family: 'OpenSans';
+
+    src: url(content/view/fonts/opensansregular.eot);
+
+    src: url(content/view/fonts/opensansregulard41d.eot?#iefix) format('embedded-opentype'),url(content/view/fonts/opensansregular.woff) format('woff'),url(content/view/fonts/opensansregular.ttf) format('truetype'),url(content/view/fonts/opensansregular.svg#opensansregular) format('svg');
+
+    font-weight: normal;
+
+    font-style: normal;
+
+}
+
+
+
+@font-face {
+
+    font-family: 'OpenSans-Bold';
+
+    src: url(content/view/fonts/opensansbold.eot);
+
+    src: url(content/view/fonts/opensansboldd41d.eot?#iefix) format('embedded-opentype'),url(content/view/fonts/opensansbold.woff) format('woff'),url(content/view/fonts/opensansbold.ttf) format('truetype'),url(content/view/fonts/opensansbold.svg#opensansbold) format('svg');
+
+    font-weight: normal;
+
+    font-style: normal;
+
+}
+
+
+
+@font-face {
+
+    font-family: 'monospacetype-regular';
+
+    src: url('content/view/fonts/MonospaceTypewriter-webfont.eot');
+
+    src: url('content/view/fonts/MonospaceTypewriter-webfontd41d.eot?#iefix') format('embedded-opentype'), url('content/view/fonts/MonospaceTypewriter-webfont.woff') format('woff'), url('content/view/fonts/MonospaceTypewriter-webfont.ttf') format('truetype'), url('content/view/fonts/MonospaceTypewriter-webfont.svg#monospacetypewriterregular') format('svg');
+
+    font-weight: normal;
+
+    font-style: normal;
+
+}
+
+
+
+@font-face {
+
+    font-family: 'UTM_Alter_Gothic';
+
+    src: local('UTM Alter Gothic'), url('content/view/fonts/UTM_Alter_Gothic.ttf') format('truetype');
+
+    font-weight: normal;
+
+    font-style: normal;
+
+}
+
+
+
+@font-face {
+
+    font-family: 'Myriad Pro Bold Cond';
+
+    font-style: normal;
+
+    font-weight: normal;
+
+    src: url('content/view/fonts/MYRIADPRO-BOLDCOND.woff') format('woff');
+
+}
+
+
+
+@font-face {
+
+    font-family: 'Myriad Pro Regular';
+
+    src: url(content/view/fonts/MyriaPro/MyriadPro-Regular.eot);
+
+    src: url(content/view/fonts/MyriaPro/MyriadPro-Regulard41d.eot?#iefix) format('embedded-opentype'),url(content/view/fonts/MyriaPro/MyriadPro-Regular.woff) format('woff'),url(content/view/fonts/MyriaPro/MyriadPro-Regular.ttf) format('truetype'),url(content/view/fonts/MyriaPro/MyriadPro-Regular.svg#MyriadPro-Regular) format('svg');
+
+    font-weight: normal;
+
+    font-style: normal;
+
+}
+
+
+
+@font-face {
+
+    font-family: 'Myriad Pro Bold';
+
+    src: url(content/view/fonts/MyriaPro/MyriadPro-Bold.eot);
+
+    src: url(content/view/fonts/MyriaPro/MyriadPro-Boldd41d.eot?#iefix) format('embedded-opentype'), url(content/view/fonts/MyriaPro/MyriadPro-Bold.otf) format('truetype'), url(content/view/fonts/MyriaPro/MyriadPro-Bold.ttf) format('truetype'), url(content/view/fonts/MyriaPro/MyriadPro-Bold.svg#MyriadPro-Bold) format('svg');
+
+    src: url('content/view/fonts/MyriaPro/MYRIADPRO-BOLD.woff') format('woff');
+
+    font-weight: normal;
+
+    font-style: normal;
+
+}
+

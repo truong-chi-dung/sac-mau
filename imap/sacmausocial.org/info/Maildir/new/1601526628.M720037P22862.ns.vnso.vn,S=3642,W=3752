@@ -1,0 +1,110 @@
+Return-Path: <>
+Delivered-To: info@sacmausocial.org
+Received: from ns.vnso.vn
+	by ns.vnso.vn with LMTP
+	id 0OxMKGRbdV9OWQAA0EY2yA
+	(envelope-from <>)
+	for <info@sacmausocial.org>; Thu, 01 Oct 2020 11:30:28 +0700
+Return-path: <>
+Envelope-to: info@sacmausocial.org
+Delivery-date: Thu, 01 Oct 2020 11:30:28 +0700
+Received: from mail by ns.vnso.vn with local (Exim 4.92.3)
+	id 1kNqEe-0003I4-JN
+	for info@sacmausocial.org; Thu, 01 Oct 2020 11:30:28 +0700
+X-Failed-Recipients: sacmausocial@sacmau.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@ns.vnso.vn>
+To: info@sacmausocial.org
+Content-Type: multipart/report; report-type=delivery-status; boundary=1601526628-eximdsn-2035503154
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1kNqEe-0003I4-JN@ns.vnso.vn>
+Date: Thu, 01 Oct 2020 11:30:28 +0700
+
+--1601526628-eximdsn-2035503154
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  sacmausocial@sacmau.com
+    retry timeout exceeded
+
+--1601526628-eximdsn-2035503154
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; ns.vnso.vn
+
+Action: failed
+Final-Recipient: rfc822;sacmausocial@sacmau.com
+Status: 5.0.0
+
+--1601526628-eximdsn-2035503154
+Content-type: message/rfc822
+
+Return-path: <info@sacmausocial.org>
+Received: from vps236223.superdata.vn ([103.1.236.223] helo=sacmausocial.org)
+	by ns.vnso.vn with esmtpa (Exim 4.92.3)
+	(envelope-from <info@sacmausocial.org>)
+	id 1kNq8U-00031R-Dw
+	for sacmausocial@sacmau.com; Thu, 01 Oct 2020 11:24:06 +0700
+Date: Thu, 1 Oct 2020 11:24:01 +0700
+To: sacmausocial@sacmau.com
+From: cheap monthly SEO plans <info@sacmausocial.org>
+Reply-to: cheap monthly SEO plans <info@sacmausocial.org>, cheap monthly SEO plans <no-reply@hilkom-digital.de>
+Subject: DONATE - cheap monthly SEO plans
+Message-ID: <a431f5411618a3a6426e4e05657b669c@sacmausocial.org>
+X-Priority: 3
+X-Mailer: PHPMailer 5.1 (phpmailer.sourceforge.net)
+MIME-Version: 1.0
+Content-Transfer-Encoding: 8bit
+Content-Type: text/html; charset="utf-8"
+
+<h3 style="text-align: center;">THÔNG TIN <span style="color:red">DONATE</span></h3><table rules="all" style="border-color:#ccc;border:1px solid #ccc;width:400px;padding:5px;text-align: center;margin:auto;">
+				
+				<tr>
+					<th colspan="2">Thư liên hệ từ website <a href="sacmausocial.org">sacmausocial.org</a></th>
+				</tr>
+				<tr>
+					<th colspan="2">&nbsp;</th>
+				</tr>
+				<tr>
+					<th>Tên cá nhân :</th><td>cheap monthly SEO plans</td>
+				</tr>
+				<tr>
+					<th>Tên tổ chức :</th><td></td>
+				</tr>
+				<tr>
+					<th>Điện Thoại :</th><td></td>
+				</tr>
+				<tr>
+					<th>Email :</th><td>no-reply@hilkom-digital.de</td>
+				</tr>
+				<tr>
+					<th>Mục đích</th><td><br><br></td>
+				</tr>
+				<tr>
+					<th>Cho dự án: </th><td><br><br><br><br><br></td>
+				</tr>
+				<tr>
+					<th>Nội dung :</th><td>Hеllо! 
+I have just checked sacmausocial.org for the ranking keywords and seen that your SEO metrics could use a boost. 
+ 
+We will improve your SEO metrics and ranks organically and safely, using only whitehat methods, while providing monthly reports and outstanding support. 
+ 
+Please check our pricelist here, we offer SEO at cheap rates. 
+https://www.hilkom-digital.de/cheap-seo-packages/ 
+ 
+Start increasing your sales and leads with us, today! 
+ 
+regards 
+Hilkom Digital Team 
+support@hilkom-digital.de</td>
+				</tr>
+				</table>
+
+
+
+--1601526628-eximdsn-2035503154--

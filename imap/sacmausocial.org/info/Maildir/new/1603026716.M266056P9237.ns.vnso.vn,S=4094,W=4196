@@ -1,0 +1,102 @@
+Return-Path: <>
+Delivered-To: info@sacmausocial.org
+Received: from ns.vnso.vn
+	by ns.vnso.vn with LMTP
+	id 0qPCDRw/jF8VJAAA0EY2yA
+	(envelope-from <>)
+	for <info@sacmausocial.org>; Sun, 18 Oct 2020 20:11:56 +0700
+Return-path: <>
+Envelope-to: info@sacmausocial.org
+Delivery-date: Sun, 18 Oct 2020 20:11:56 +0700
+Received: from mail by ns.vnso.vn with local (Exim 4.92.3)
+	id 1kU8Tc-0006Z1-5G
+	for info@sacmausocial.org; Sun, 18 Oct 2020 20:11:56 +0700
+X-Failed-Recipients: sacmausocial@sacmau.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@ns.vnso.vn>
+To: info@sacmausocial.org
+Content-Type: multipart/report; report-type=delivery-status; boundary=1603026716-eximdsn-369716896
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1kU8Tc-0006Z1-5G@ns.vnso.vn>
+Date: Sun, 18 Oct 2020 20:11:56 +0700
+
+--1603026716-eximdsn-369716896
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  sacmausocial@sacmau.com
+    retry timeout exceeded
+
+--1603026716-eximdsn-369716896
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; ns.vnso.vn
+
+Action: failed
+Final-Recipient: rfc822;sacmausocial@sacmau.com
+Status: 5.0.0
+
+--1603026716-eximdsn-369716896
+Content-type: message/rfc822
+
+Return-path: <info@sacmausocial.org>
+Received: from vps236223.superdata.vn ([103.1.236.223] helo=sacmausocial.org)
+	by ns.vnso.vn with esmtpa (Exim 4.92.3)
+	(envelope-from <info@sacmausocial.org>)
+	id 1kU8NS-0006Ge-4n
+	for sacmausocial@sacmau.com; Sun, 18 Oct 2020 20:05:34 +0700
+Date: Sun, 18 Oct 2020 20:05:33 +0700
+To: sacmausocial@sacmau.com
+From: "#file_links[\"C:\\Frazes.txt\",1,N]: #file_links[\"C:\\Links.txt\",1,N]" <info@sacmausocial.org>
+Reply-to: "#file_links[\"C:\\Frazes.txt\",1,N]: #file_links[\"C:\\Links.txt\",1,N]" <info@sacmausocial.org>, "#file_links[\"C:\\Frazes.txt\",1,N]: #file_links[\"C:\\Links.txt\",1,N]" <kcs2909@hotmail.com>
+Subject: DONATE - #file_links["C:\Frazes.txt",1,N]: #file_links["C:\Links.txt",1,N]
+Message-ID: <f5e86ff5c5d9414ace500f313b4d8c4f@sacmausocial.org>
+X-Priority: 3
+X-Mailer: PHPMailer 5.1 (phpmailer.sourceforge.net)
+MIME-Version: 1.0
+Content-Transfer-Encoding: 8bit
+Content-Type: text/html; charset="utf-8"
+
+<h3 style="text-align: center;">THÔNG TIN <span style="color:red">DONATE</span></h3><table rules="all" style="border-color:#ccc;border:1px solid #ccc;width:400px;padding:5px;text-align: center;margin:auto;">
+				
+				<tr>
+					<th colspan="2">Thư liên hệ từ website <a href="sacmausocial.org">sacmausocial.org</a></th>
+				</tr>
+				<tr>
+					<th colspan="2">&nbsp;</th>
+				</tr>
+				<tr>
+					<th>Tên cá nhân :</th><td>#file_links["C:\Frazes.txt",1,N]: #file_links["C:\Links.txt",1,N]</td>
+				</tr>
+				<tr>
+					<th>Tên tổ chức :</th><td>#file_links["C:\Frazes.txt",1,N]: #file_links["C:\Links.txt",1,N]</td>
+				</tr>
+				<tr>
+					<th>Điện Thoại :</th><td>#file_links["C:\Frazes.txt",1,N]: #file_links["C:\Links.txt",1,N]</td>
+				</tr>
+				<tr>
+					<th>Email :</th><td>kcs2909@hotmail.com</td>
+				</tr>
+				<tr>
+					<th>Mục đích</th><td><br><br></td>
+				</tr>
+				<tr>
+					<th>Cho dự án: </th><td><br><br><br><br><br></td>
+				</tr>
+				<tr>
+					<th>Nội dung :</th><td>PASSIVES EINKOMMEN IM INTERNET VOR 6066 EUR IN DER WOCHE - IN EINEM MONAT KONNEN SIE SICH EIN TEURES HAUS KAUFEN: https://qspark.me/cgBD4a 
+PASSIVES EINKOMMEN IM INTERNET VOR 7776 EURO IN DER WOCHE - DIE BESTE INVESTITIONSMOGLICHKEIT: https://onlineuniversalwork.com/3hmsl 
+ONLINE VERDIENEN VOR 9746 EURO PRO TAG - DIE BESTE SEITE, UM ONLINE GELD ZU VERDIENEN: https://ecuadortenisclub.com/3eaw0 
+ONLINE VERDIENEN VOR 6046 EURO PRO TAG - KEINE BERUFLICHEN FAHIGKEITEN: https://jtbtigers.com/3e34p 
+PASSIVES EINKOMMEN VOR 6766 EUR AM TAG - DER BESTE WEG, UM ONLINE GELD ZU VERDIENEN: http://freeurlredirect.com/3jvwu</td>
+				</tr>
+				</table>
+
+
+
+--1603026716-eximdsn-369716896--

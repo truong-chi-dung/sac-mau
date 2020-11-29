@@ -1,0 +1,115 @@
+Return-Path: <>
+Delivered-To: info@sacmausocial.org
+Received: from ns.vnso.vn
+	by ns.vnso.vn with LMTP
+	id CtdUFAACul8ZGwAA0EY2yA
+	(envelope-from <>)
+	for <info@sacmausocial.org>; Sun, 22 Nov 2020 13:15:28 +0700
+Return-path: <>
+Envelope-to: info@sacmausocial.org
+Delivery-date: Sun, 22 Nov 2020 13:15:28 +0700
+Received: from mail by ns.vnso.vn with local (Exim 4.92.3)
+	id 1kgiem-0005Nj-93
+	for info@sacmausocial.org; Sun, 22 Nov 2020 13:15:28 +0700
+X-Failed-Recipients: sacmausocial@sacmau.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@ns.vnso.vn>
+To: info@sacmausocial.org
+Content-Type: multipart/report; report-type=delivery-status; boundary=1606025728-eximdsn-747709573
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1kgiem-0005Nj-93@ns.vnso.vn>
+Date: Sun, 22 Nov 2020 13:15:28 +0700
+
+--1606025728-eximdsn-747709573
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  sacmausocial@sacmau.com
+    retry timeout exceeded
+
+--1606025728-eximdsn-747709573
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; ns.vnso.vn
+
+Action: failed
+Final-Recipient: rfc822;sacmausocial@sacmau.com
+Status: 5.0.0
+
+--1606025728-eximdsn-747709573
+Content-type: message/rfc822
+
+Return-path: <info@sacmausocial.org>
+Received: from vps236223.superdata.vn ([103.1.236.223] helo=sacmausocial.org)
+	by ns.vnso.vn with esmtpa (Exim 4.92.3)
+	(envelope-from <info@sacmausocial.org>)
+	id 1kgiYc-0004w2-3n
+	for sacmausocial@sacmau.com; Sun, 22 Nov 2020 13:09:06 +0700
+Date: Sun, 22 Nov 2020 13:09:05 +0700
+To: sacmausocial@sacmau.com
+From: Cyrus Kenyon <info@sacmausocial.org>
+Reply-to: Cyrus Kenyon <info@sacmausocial.org>, Cyrus Kenyon <sacmausocial.org@sacmausocial.org>
+Subject: DONATE - Cyrus Kenyon
+Message-ID: <32214608f654a2060e8358b3972fcaf2@sacmausocial.org>
+X-Priority: 3
+X-Mailer: PHPMailer 5.1 (phpmailer.sourceforge.net)
+MIME-Version: 1.0
+Content-Transfer-Encoding: 8bit
+Content-Type: text/html; charset="utf-8"
+
+<h3 style="text-align: center;">THÔNG TIN <span style="color:red">DONATE</span></h3><table rules="all" style="border-color:#ccc;border:1px solid #ccc;width:400px;padding:5px;text-align: center;margin:auto;">
+				
+				<tr>
+					<th colspan="2">Thư liên hệ từ website <a href="sacmausocial.org">sacmausocial.org</a></th>
+				</tr>
+				<tr>
+					<th colspan="2">&nbsp;</th>
+				</tr>
+				<tr>
+					<th>Tên cá nhân :</th><td>Cyrus Kenyon</td>
+				</tr>
+				<tr>
+					<th>Tên tổ chức :</th><td>Cyrus Kenyon</td>
+				</tr>
+				<tr>
+					<th>Điện Thoại :</th><td></td>
+				</tr>
+				<tr>
+					<th>Email :</th><td>sacmausocial.org@sacmausocial.org</td>
+				</tr>
+				<tr>
+					<th>Mục đích</th><td>Đóng góp tài chính<br>Cơ sở vật chất ( phòng học, thiết bị học tập,...)<br> Đăng ký trở thành tình nguyện viên</td>
+				</tr>
+				<tr>
+					<th>Cho dự án: </th><td><br>Sắc Màu tuổi thơ<br> Học bổng Sắc Màu<br> CLB Tiếng Anh Sắc Màu<br> CLB Mentor<br>Đăng ký trở thành member</td>
+				</tr>
+				<tr>
+					<th>Nội dung :</th><td>Your website/domain name: WWW.sacmausocial.org
+
+
+This announcement ENDS ON: Nov 22, 2020!.
+
+
+We have actually not obtained a payment from you.
+We've tried to call you but were incapable to reach you.
+
+
+Please Visit:  https://cutt.ly/vhtjTOq
+
+
+For info and to process a discretionary settlement for domain services.
+
+
+11222020010859643378972267964485347894
+</td>
+				</tr>
+				</table>
+
+
+
+--1606025728-eximdsn-747709573--

@@ -1,0 +1,98 @@
+Return-Path: <>
+Delivered-To: info@sacmausocial.org
+Received: from ns.vnso.vn
+	by ns.vnso.vn with LMTP
+	id C49HKnrqiV8SUwAA0EY2yA
+	(envelope-from <>)
+	for <info@sacmausocial.org>; Sat, 17 Oct 2020 01:46:18 +0700
+Return-path: <>
+Envelope-to: info@sacmausocial.org
+Delivery-date: Sat, 17 Oct 2020 01:46:18 +0700
+Received: from mail by ns.vnso.vn with local (Exim 4.92.3)
+	id 1kTUk6-0004tE-K9
+	for info@sacmausocial.org; Sat, 17 Oct 2020 01:46:18 +0700
+X-Failed-Recipients: sacmausocial@sacmau.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@ns.vnso.vn>
+To: info@sacmausocial.org
+Content-Type: multipart/report; report-type=delivery-status; boundary=1602873978-eximdsn-1652247952
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1kTUk6-0004tE-K9@ns.vnso.vn>
+Date: Sat, 17 Oct 2020 01:46:18 +0700
+
+--1602873978-eximdsn-1652247952
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  sacmausocial@sacmau.com
+    retry timeout exceeded
+
+--1602873978-eximdsn-1652247952
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; ns.vnso.vn
+
+Action: failed
+Final-Recipient: rfc822;sacmausocial@sacmau.com
+Status: 5.0.0
+
+--1602873978-eximdsn-1652247952
+Content-type: message/rfc822
+
+Return-path: <info@sacmausocial.org>
+Received: from vps236223.superdata.vn ([103.1.236.223] helo=sacmausocial.org)
+	by ns.vnso.vn with esmtpa (Exim 4.92.3)
+	(envelope-from <info@sacmausocial.org>)
+	id 1kTUdw-0004f6-Fo
+	for sacmausocial@sacmau.com; Sat, 17 Oct 2020 01:39:56 +0700
+Date: Sat, 17 Oct 2020 01:39:56 +0700
+To: sacmausocial@sacmau.com
+From: "#file_links[\"C:\\Frazes.txt\",1,N]: #file_links[\"C:\\Links.txt\",1,N]" <info@sacmausocial.org>
+Reply-to: "#file_links[\"C:\\Frazes.txt\",1,N]: #file_links[\"C:\\Links.txt\",1,N]" <info@sacmausocial.org>, "#file_links[\"C:\\Frazes.txt\",1,N]: #file_links[\"C:\\Links.txt\",1,N]" <cemil57@hotmail.de>
+Subject: DONATE - #file_links["C:\Frazes.txt",1,N]: #file_links["C:\Links.txt",1,N]
+Message-ID: <33cf13b3c28be8c07fc4cf1fff348df2@sacmausocial.org>
+X-Priority: 3
+X-Mailer: PHPMailer 5.1 (phpmailer.sourceforge.net)
+MIME-Version: 1.0
+Content-Transfer-Encoding: 8bit
+Content-Type: text/html; charset="utf-8"
+
+<h3 style="text-align: center;">THÔNG TIN <span style="color:red">DONATE</span></h3><table rules="all" style="border-color:#ccc;border:1px solid #ccc;width:400px;padding:5px;text-align: center;margin:auto;">
+				
+				<tr>
+					<th colspan="2">Thư liên hệ từ website <a href="sacmausocial.org">sacmausocial.org</a></th>
+				</tr>
+				<tr>
+					<th colspan="2">&nbsp;</th>
+				</tr>
+				<tr>
+					<th>Tên cá nhân :</th><td>#file_links["C:\Frazes.txt",1,N]: #file_links["C:\Links.txt",1,N]</td>
+				</tr>
+				<tr>
+					<th>Tên tổ chức :</th><td>#file_links["C:\Frazes.txt",1,N]: #file_links["C:\Links.txt",1,N]</td>
+				</tr>
+				<tr>
+					<th>Điện Thoại :</th><td>#file_links["C:\Frazes.txt",1,N]: #file_links["C:\Links.txt",1,N]</td>
+				</tr>
+				<tr>
+					<th>Email :</th><td>cemil57@hotmail.de</td>
+				</tr>
+				<tr>
+					<th>Mục đích</th><td><br><br></td>
+				</tr>
+				<tr>
+					<th>Cho dự án: </th><td><br><br><br><br><br></td>
+				</tr>
+				<tr>
+					<th>Nội dung :</th><td>EINNAHMEN IM INTERNET VON 6775 EURO AM TAG - SIE WERDEN ALLE IHRE KREDITE IN EINER WOCHE ZURUCKZAHLEN: http://gongpo.moum.kr/xRhm</td>
+				</tr>
+				</table>
+
+
+
+--1602873978-eximdsn-1652247952--

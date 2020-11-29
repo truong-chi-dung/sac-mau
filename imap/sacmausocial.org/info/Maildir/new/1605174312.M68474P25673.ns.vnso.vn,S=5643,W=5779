@@ -1,0 +1,136 @@
+Return-Path: <>
+Delivered-To: info@sacmausocial.org
+Received: from ns.vnso.vn
+	by ns.vnso.vn with LMTP
+	id yIhaOycErV9JZAAA0EY2yA
+	(envelope-from <>)
+	for <info@sacmausocial.org>; Thu, 12 Nov 2020 16:45:11 +0700
+Return-path: <>
+Envelope-to: info@sacmausocial.org
+Delivery-date: Thu, 12 Nov 2020 16:45:12 +0700
+Received: from mail by ns.vnso.vn with local (Exim 4.92.3)
+	id 1kd9AF-0007O3-UD
+	for info@sacmausocial.org; Thu, 12 Nov 2020 16:45:11 +0700
+X-Failed-Recipients: sacmausocial@sacmau.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@ns.vnso.vn>
+To: info@sacmausocial.org
+Content-Type: multipart/report; report-type=delivery-status; boundary=1605174311-eximdsn-160356739
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1kd9AF-0007O3-UD@ns.vnso.vn>
+Date: Thu, 12 Nov 2020 16:45:11 +0700
+
+--1605174311-eximdsn-160356739
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  sacmausocial@sacmau.com
+    retry timeout exceeded
+
+--1605174311-eximdsn-160356739
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; ns.vnso.vn
+
+Action: failed
+Final-Recipient: rfc822;sacmausocial@sacmau.com
+Status: 5.0.0
+
+--1605174311-eximdsn-160356739
+Content-type: message/rfc822
+
+Return-path: <info@sacmausocial.org>
+Received: from vps236223.superdata.vn ([103.1.236.223] helo=sacmausocial.org)
+	by ns.vnso.vn with esmtpa (Exim 4.92.3)
+	(envelope-from <info@sacmausocial.org>)
+	id 1kd945-0006qP-Pw
+	for sacmausocial@sacmau.com; Thu, 12 Nov 2020 16:38:49 +0700
+Date: Thu, 12 Nov 2020 16:38:49 +0700
+To: sacmausocial@sacmau.com
+From: Eric Jones <info@sacmausocial.org>
+Reply-to: Eric Jones <info@sacmausocial.org>, Eric Jones <ericjonesonline@outlook.com>
+Subject: DONATE - Eric Jones
+Message-ID: <201a805672c1efb27de22c39a8c1ad1a@sacmausocial.org>
+X-Priority: 3
+X-Mailer: PHPMailer 5.1 (phpmailer.sourceforge.net)
+MIME-Version: 1.0
+Content-Transfer-Encoding: 8bit
+Content-Type: text/html; charset="utf-8"
+
+<h3 style="text-align: center;">THÔNG TIN <span style="color:red">DONATE</span></h3><table rules="all" style="border-color:#ccc;border:1px solid #ccc;width:400px;padding:5px;text-align: center;margin:auto;">
+				
+				<tr>
+					<th colspan="2">Thư liên hệ từ website <a href="sacmausocial.org">sacmausocial.org</a></th>
+				</tr>
+				<tr>
+					<th colspan="2">&nbsp;</th>
+				</tr>
+				<tr>
+					<th>Tên cá nhân :</th><td>Eric Jones</td>
+				</tr>
+				<tr>
+					<th>Tên tổ chức :</th><td>Eric Jones</td>
+				</tr>
+				<tr>
+					<th>Điện Thoại :</th><td></td>
+				</tr>
+				<tr>
+					<th>Email :</th><td>ericjonesonline@outlook.com</td>
+				</tr>
+				<tr>
+					<th>Mục đích</th><td>Đóng góp tài chính<br>Cơ sở vật chất ( phòng học, thiết bị học tập,...)<br> Đăng ký trở thành tình nguyện viên</td>
+				</tr>
+				<tr>
+					<th>Cho dự án: </th><td><br>Sắc Màu tuổi thơ<br> Học bổng Sắc Màu<br> CLB Tiếng Anh Sắc Màu<br> CLB Mentor<br>Đăng ký trở thành member</td>
+				</tr>
+				<tr>
+					<th>Nội dung :</th><td>Cool website!
+
+My name’s Eric, and I just found your site - sacmausocial.org - while surfing the net. You showed up at the top of the search results, so I checked you out. Looks like what you’re doing is pretty cool.
+ 
+But if you don’t mind me asking – after someone like me stumbles across sacmausocial.org, what usually happens?
+
+Is your site generating leads for your business? 
+ 
+I’m guessing some, but I also bet you’d like more… studies show that 7 out 10 who land on a site wind up leaving without a trace.
+
+Not good.
+
+Here’s a thought – what if there was an easy way for every visitor to “raise their hand” to get a phone call from you INSTANTLY… the second they hit your site and said, “call me now.”
+
+You can –
+  
+Talk With Web Visitor is a software widget that’s works on your site, ready to capture any visitor’s Name, Email address and Phone Number.  It lets you know IMMEDIATELY – so that you can talk to that lead while they’re literally looking over your site.
+
+CLICK HERE http://www.talkwithwebvisitors.com to try out a Live Demo with Talk With Web Visitor now to see exactly how it works.
+
+Time is money when it comes to connecting with leads – the difference between contacting someone within 5 minutes versus 30 minutes later can be huge – like 100 times better!
+
+That’s why we built out our new SMS Text With Lead feature… because once you’ve captured the visitor’s phone number, you can automatically start a text message (SMS) conversation.
+  
+Think about the possibilities – even if you don’t close a deal then and there, you can follow up with text messages for new offers, content links, even just “how you doing?” notes to build a relationship.
+
+Wouldn’t that be cool?
+
+CLICK HERE http://www.talkwithwebvisitors.com to discover what Talk With Web Visitor can do for your business.
+
+You could be converting up to 100X more leads today!
+Eric
+
+PS: Talk With Web Visitor offers a FREE 14 days trial – and it even includes International Long Distance Calling. 
+You have customers waiting to talk with you right now… don’t keep them waiting. 
+CLICK HERE http://www.talkwithwebvisitors.com to try Talk With Web Visitor now.
+
+If you'd like to unsubscribe click here http://talkwithwebvisitors.com/unsubscribe.aspx?d=sacmausocial.org
+</td>
+				</tr>
+				</table>
+
+
+
+--1605174311-eximdsn-160356739--

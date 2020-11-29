@@ -1,0 +1,1 @@
+<a id="btn-zalo" href="https://zalo.me/<?=str_replace(' ', '',$row_setting["dienthoai"])?> " target="_blank"><div class="animated infinite zoomIn kenit-alo-circle"></div><div class="animated infinite pulse kenit-alo-circle-fill"></div><span><img src="images/default/zalo.png" alt="Zalo"></span></a>

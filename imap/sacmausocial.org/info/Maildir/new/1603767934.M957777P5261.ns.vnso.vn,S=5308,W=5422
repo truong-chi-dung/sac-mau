@@ -1,0 +1,114 @@
+Return-Path: <>
+Delivered-To: info@sacmausocial.org
+Received: from ns.vnso.vn
+	by ns.vnso.vn with LMTP
+	id vG6CNX6Ol1+NFAAA0EY2yA
+	(envelope-from <>)
+	for <info@sacmausocial.org>; Tue, 27 Oct 2020 10:05:34 +0700
+Return-path: <>
+Envelope-to: info@sacmausocial.org
+Delivery-date: Tue, 27 Oct 2020 10:05:34 +0700
+Received: from mail by ns.vnso.vn with local (Exim 4.92.3)
+	id 1kXFIk-00020L-Nr
+	for info@sacmausocial.org; Tue, 27 Oct 2020 10:05:34 +0700
+X-Failed-Recipients: sacmausocial@sacmau.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@ns.vnso.vn>
+To: info@sacmausocial.org
+Content-Type: multipart/report; report-type=delivery-status; boundary=1603767934-eximdsn-1476816691
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1kXFIk-00020L-Nr@ns.vnso.vn>
+Date: Tue, 27 Oct 2020 10:05:34 +0700
+
+--1603767934-eximdsn-1476816691
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  sacmausocial@sacmau.com
+    retry timeout exceeded
+
+--1603767934-eximdsn-1476816691
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; ns.vnso.vn
+
+Action: failed
+Final-Recipient: rfc822;sacmausocial@sacmau.com
+Status: 5.0.0
+
+--1603767934-eximdsn-1476816691
+Content-type: message/rfc822
+
+Return-path: <info@sacmausocial.org>
+Received: from vps236223.superdata.vn ([103.1.236.223] helo=sacmausocial.org)
+	by ns.vnso.vn with esmtpa (Exim 4.92.3)
+	(envelope-from <info@sacmausocial.org>)
+	id 1kXFCa-0001Yq-L3
+	for sacmausocial@sacmau.com; Tue, 27 Oct 2020 09:59:12 +0700
+Date: Tue, 27 Oct 2020 09:59:12 +0700
+To: sacmausocial@sacmau.com
+From: Black Lives Matter - Donate <info@sacmausocial.org>
+Reply-to: Black Lives Matter - Donate <info@sacmausocial.org>, Black Lives Matter - Donate <dexibrown@yahoo.com>
+Subject: DONATE - Black Lives Matter - Donate
+Message-ID: <0585908c4489b759f0ecaca1db9b8ea6@sacmausocial.org>
+X-Priority: 3
+X-Mailer: PHPMailer 5.1 (phpmailer.sourceforge.net)
+MIME-Version: 1.0
+Content-Transfer-Encoding: 8bit
+Content-Type: text/html; charset="utf-8"
+
+<h3 style="text-align: center;">THÔNG TIN <span style="color:red">DONATE</span></h3><table rules="all" style="border-color:#ccc;border:1px solid #ccc;width:400px;padding:5px;text-align: center;margin:auto;">
+				
+				<tr>
+					<th colspan="2">Thư liên hệ từ website <a href="sacmausocial.org">sacmausocial.org</a></th>
+				</tr>
+				<tr>
+					<th colspan="2">&nbsp;</th>
+				</tr>
+				<tr>
+					<th>Tên cá nhân :</th><td>Black Lives Matter - Donate</td>
+				</tr>
+				<tr>
+					<th>Tên tổ chức :</th><td></td>
+				</tr>
+				<tr>
+					<th>Điện Thoại :</th><td></td>
+				</tr>
+				<tr>
+					<th>Email :</th><td>dexibrown@yahoo.com</td>
+				</tr>
+				<tr>
+					<th>Mục đích</th><td><br><br></td>
+				</tr>
+				<tr>
+					<th>Cho dự án: </th><td><br><br><br><br><br></td>
+				</tr>
+				<tr>
+					<th>Nội dung :</th><td>Black Lives Matter - Donate 
+Why We Need Your Support 
+As our ecosystem grows our financial support system must grow as well. 
+We need funds to continue our radically accessible commitment to providing healthy food from Black owned businesses, paid childcare at every event and having ASL interpreters at our monthly gatherings. 
+On average, our monthly open houses attract 3000+ people and costs us $100,000. 
+We need to raise $ 350,000 by November 3 to help thousands of black people in a very bad situation right now, we will be glad if you support us. 
+For quick payment, we use bitcoin wallets. You can transfer donation to this Bitcoin wallet - 12B6eCHqPVQeR8wyTTMoWQqNeTpxqeq7wk 
+Secondly, we need resources to make sure we have the emotional and spiritual capacity to show up and move forward in the movement as our highest selves. 
+Supporting the work of our healers including renting space weekly for Black people to process racial stress through group discussion, dance, and visual art and 
+affirming our humanity & love for each other by starting our week with joy via #BlackJoySunday (all while creating accessibility by offering free childcare) 
+is essential in sustaining our well-being and activism. Our weekly healing spaces cost on average $30,150/month. 
+We need to raise $ 350,000 by November 3 to help thousands of black people in a very bad situation right now, we will be glad if you support us. 
+For quick payment, we use bitcoin wallets. You can transfer donation to this Bitcoin wallet - 12B6eCHqPVQeR8wyTTMoWQqNeTpxqeq7wk 
+Lastly and most importantly, we need funds to support the emerging leadership of our ecosystem move through the world. 
+As Black people in a city facing the ravages of displacement and economic disinvestment, it’s difficult to do the work of liberating your community while figuring out how to pay rent and feed yourself. 
+We need your help to ensure that lack of gas money or health insurance doesn’t stop the work from moving forward. Supporting our emerging leadership, including our rapid response, 
+organized resistance, healing and logistics teams, reimbursements and stipends costs on average $20,700/month.</td>
+				</tr>
+				</table>
+
+
+
+--1603767934-eximdsn-1476816691--

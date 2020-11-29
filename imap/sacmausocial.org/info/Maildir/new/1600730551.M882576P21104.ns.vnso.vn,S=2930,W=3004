@@ -1,0 +1,74 @@
+Return-Path: <>
+Delivered-To: info@sacmausocial.org
+Received: from ns.vnso.vn
+	by ns.vnso.vn with LMTP
+	id YSmKL7c1aV9wUgAA0EY2yA
+	(envelope-from <>)
+	for <info@sacmausocial.org>; Tue, 22 Sep 2020 06:22:31 +0700
+Return-path: <>
+Envelope-to: info@sacmausocial.org
+Delivery-date: Tue, 22 Sep 2020 06:22:31 +0700
+Received: from mail by ns.vnso.vn with local (Exim 4.92.3)
+	id 1kKV8h-0000Su-Ly
+	for info@sacmausocial.org; Tue, 22 Sep 2020 06:22:31 +0700
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@ns.vnso.vn>
+To: info@sacmausocial.org
+Content-Type: multipart/report; report-type=delivery-status; boundary=1600730551-eximdsn-170128993
+MIME-Version: 1.0
+Subject: Warning: message 1kK4CM-00062g-Hm delayed 24 hours
+Message-Id: <E1kKV8h-0000Su-Ly@ns.vnso.vn>
+Date: Tue, 22 Sep 2020 06:22:31 +0700
+
+--1600730551-eximdsn-170128993
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+A message that you sent has not yet been delivered to one or more of its
+recipients after more than 24 hours on the queue on ns.vnso.vn.
+
+The message identifier is:     1kK4CM-00062g-Hm
+The date of the message is:    Mon, 21 Sep 2020 01:36:30 +0700
+The subject of the message is: DONATE - #file_links["C:\Frazes.txt",1,N]: #file_links["C:\Links.txt",1,N]
+
+The address to which the message has not yet been delivered is:
+
+  sacmausocial@sacmau.com
+
+No action is required on your part. Delivery attempts will continue for
+some time, and this warning may be repeated at intervals if the message
+remains undelivered. Eventually the mail delivery software will give up,
+and when that happens, the message will be returned to you.
+
+--1600730551-eximdsn-170128993
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; ns.vnso.vn
+
+Action: delayed
+Final-Recipient: rfc822;sacmausocial@sacmau.com
+Status: 4.0.0
+
+--1600730551-eximdsn-170128993
+Content-type: text/rfc822-headers
+
+Return-path: <info@sacmausocial.org>
+Received: from vps236223.superdata.vn ([103.1.236.223] helo=sacmausocial.org)
+	by ns.vnso.vn with esmtpa (Exim 4.92.3)
+	(envelope-from <info@sacmausocial.org>)
+	id 1kK4CM-00062g-Hm
+	for sacmausocial@sacmau.com; Mon, 21 Sep 2020 01:36:30 +0700
+Date: Mon, 21 Sep 2020 01:36:30 +0700
+To: sacmausocial@sacmau.com
+From: "#file_links[\"C:\\Frazes.txt\",1,N]: #file_links[\"C:\\Links.txt\",1,N]" <info@sacmausocial.org>
+Reply-to: "#file_links[\"C:\\Frazes.txt\",1,N]: #file_links[\"C:\\Links.txt\",1,N]" <info@sacmausocial.org>, "#file_links[\"C:\\Frazes.txt\",1,N]: #file_links[\"C:\\Links.txt\",1,N]" <jweldon@warkscol.ac.uk>
+Subject: DONATE - #file_links["C:\Frazes.txt",1,N]: #file_links["C:\Links.txt",1,N]
+Message-ID: <3a684150991848372449329745e9e9d0@sacmausocial.org>
+X-Priority: 3
+X-Mailer: PHPMailer 5.1 (phpmailer.sourceforge.net)
+MIME-Version: 1.0
+Content-Transfer-Encoding: 8bit
+Content-Type: text/html; charset="utf-8"
+
+
+--1600730551-eximdsn-170128993--

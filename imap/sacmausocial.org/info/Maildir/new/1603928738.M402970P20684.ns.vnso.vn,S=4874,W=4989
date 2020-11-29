@@ -1,0 +1,115 @@
+Return-Path: <>
+Delivered-To: info@sacmausocial.org
+Received: from ns.vnso.vn
+	by ns.vnso.vn with LMTP
+	id gUPlFaICml/MUAAA0EY2yA
+	(envelope-from <>)
+	for <info@sacmausocial.org>; Thu, 29 Oct 2020 06:45:38 +0700
+Return-path: <>
+Envelope-to: info@sacmausocial.org
+Delivery-date: Thu, 29 Oct 2020 06:45:38 +0700
+Received: from mail by ns.vnso.vn with local (Exim 4.92.3)
+	id 1kXv8M-0008AP-9p
+	for info@sacmausocial.org; Thu, 29 Oct 2020 06:45:38 +0700
+X-Failed-Recipients: sacmausocial@sacmau.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@ns.vnso.vn>
+To: info@sacmausocial.org
+Content-Type: multipart/report; report-type=delivery-status; boundary=1603928738-eximdsn-1324683086
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1kXv8M-0008AP-9p@ns.vnso.vn>
+Date: Thu, 29 Oct 2020 06:45:38 +0700
+
+--1603928738-eximdsn-1324683086
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  sacmausocial@sacmau.com
+    retry timeout exceeded
+
+--1603928738-eximdsn-1324683086
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; ns.vnso.vn
+
+Action: failed
+Final-Recipient: rfc822;sacmausocial@sacmau.com
+Status: 5.0.0
+
+--1603928738-eximdsn-1324683086
+Content-type: message/rfc822
+
+Return-path: <info@sacmausocial.org>
+Received: from vps236223.superdata.vn ([103.1.236.223] helo=sacmausocial.org)
+	by ns.vnso.vn with esmtpa (Exim 4.92.3)
+	(envelope-from <info@sacmausocial.org>)
+	id 1kXv2C-0007tO-9I
+	for sacmausocial@sacmau.com; Thu, 29 Oct 2020 06:39:16 +0700
+Date: Thu, 29 Oct 2020 06:39:16 +0700
+To: sacmausocial@sacmau.com
+From: "Invest $ 15,000 in affiliate marketing and get $ 45,000 in a month" <info@sacmausocial.org>
+Reply-to: "Invest $ 15,000 in affiliate marketing and get $ 45,000 in a month" <info@sacmausocial.org>, "Invest $ 15,000 in affiliate marketing and get $ 45,000 in a month" <administratif-lestilleuls@adapei37.asso.fr>
+Subject: DONATE - Invest $ 15,000 in affiliate marketing and get $ 45,000 in a month
+Message-ID: <5055dea479e5c93fbde86af60d8674ad@sacmausocial.org>
+X-Priority: 3
+X-Mailer: PHPMailer 5.1 (phpmailer.sourceforge.net)
+MIME-Version: 1.0
+Content-Transfer-Encoding: 8bit
+Content-Type: text/html; charset="utf-8"
+
+<h3 style="text-align: center;">THÔNG TIN <span style="color:red">DONATE</span></h3><table rules="all" style="border-color:#ccc;border:1px solid #ccc;width:400px;padding:5px;text-align: center;margin:auto;">
+				
+				<tr>
+					<th colspan="2">Thư liên hệ từ website <a href="sacmausocial.org">sacmausocial.org</a></th>
+				</tr>
+				<tr>
+					<th colspan="2">&nbsp;</th>
+				</tr>
+				<tr>
+					<th>Tên cá nhân :</th><td>Invest $ 15,000 in affiliate marketing and get $ 45,000 in a month</td>
+				</tr>
+				<tr>
+					<th>Tên tổ chức :</th><td></td>
+				</tr>
+				<tr>
+					<th>Điện Thoại :</th><td></td>
+				</tr>
+				<tr>
+					<th>Email :</th><td>administratif-lestilleuls@adapei37.asso.fr</td>
+				</tr>
+				<tr>
+					<th>Mục đích</th><td><br><br></td>
+				</tr>
+				<tr>
+					<th>Cho dự án: </th><td><br><br><br><br><br></td>
+				</tr>
+				<tr>
+					<th>Nội dung :</th><td>Invest $ 15,000 in affiliate marketing and get $ 45,000 in a month 
+Hey. 
+Yes, you heard right. 
+You don't have to do anything. 
+We will do all the work for you. 
+You only need to invest and wait one month to receive payments. 
+https://blockchain.com/btc/payment_request?address=18gaWYjABVFJ9PhG1hCqjh5FjWBrkQVuwD&amount=1.14&message=invest_in_affiliate_marketing_at_300%_per_month 
+We have been engaged in affiliate marketing for many years and decided to attract investments to work in the development of three more areas of our activity. 
+ 
+You can only invest one amount because this is the best option for earning super profits in affiliate marketing. 
+We give a 100% guarantee that you will receive your profit on time. 
+https://blockchain.com/btc/payment_request?address=18gaWYjABVFJ9PhG1hCqjh5FjWBrkQVuwD&amount=1.14&message=invest_in_affiliate_marketing_at_300%_per_month 
+After you make an investment by clicking on the link, exactly in a month your profit in the amount of 300% will be returned to your wallet from which you made the transfer to our system. 
+ 
+The payment is made in one time. 
+If you want to receive such a profit every month, then you need to invest every month. 
+https://blockchain.com/btc/payment_request?address=18gaWYjABVFJ9PhG1hCqjh5FjWBrkQVuwD&amount=1.14&message=invest_in_affiliate_marketing_at_300%_per_month 
+There are almost two months left before the New Year, during which time you will have time to invest twice and get $ 75,000 in net profit.</td>
+				</tr>
+				</table>
+
+
+
+--1603928738-eximdsn-1324683086--

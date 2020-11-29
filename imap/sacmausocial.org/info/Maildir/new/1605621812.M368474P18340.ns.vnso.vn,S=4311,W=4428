@@ -1,0 +1,117 @@
+Return-Path: <>
+Delivered-To: info@sacmausocial.org
+Received: from ns.vnso.vn
+	by ns.vnso.vn with LMTP
+	id lVULEjTYs1+kRwAA0EY2yA
+	(envelope-from <>)
+	for <info@sacmausocial.org>; Tue, 17 Nov 2020 21:03:32 +0700
+Return-path: <>
+Envelope-to: info@sacmausocial.org
+Delivery-date: Tue, 17 Nov 2020 21:03:32 +0700
+Received: from mail by ns.vnso.vn with local (Exim 4.92.3)
+	id 1kf1a0-0005WN-7P
+	for info@sacmausocial.org; Tue, 17 Nov 2020 21:03:32 +0700
+X-Failed-Recipients: sacmausocial@sacmau.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@ns.vnso.vn>
+To: info@sacmausocial.org
+Content-Type: multipart/report; report-type=delivery-status; boundary=1605621812-eximdsn-70211520
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1kf1a0-0005WN-7P@ns.vnso.vn>
+Date: Tue, 17 Nov 2020 21:03:32 +0700
+
+--1605621812-eximdsn-70211520
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  sacmausocial@sacmau.com
+    retry timeout exceeded
+
+--1605621812-eximdsn-70211520
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; ns.vnso.vn
+
+Action: failed
+Final-Recipient: rfc822;sacmausocial@sacmau.com
+Status: 5.0.0
+
+--1605621812-eximdsn-70211520
+Content-type: message/rfc822
+
+Return-path: <info@sacmausocial.org>
+Received: from vps236223.superdata.vn ([103.1.236.223] helo=sacmausocial.org)
+	by ns.vnso.vn with esmtpa (Exim 4.92.3)
+	(envelope-from <info@sacmausocial.org>)
+	id 1kf1Tq-0004wG-3O
+	for sacmausocial@sacmau.com; Tue, 17 Nov 2020 20:57:10 +0700
+Date: Tue, 17 Nov 2020 20:57:09 +0700
+To: sacmausocial@sacmau.com
+From: China industrial supply for dry fog humidifier <info@sacmausocial.org>
+Reply-to: China industrial supply for dry fog humidifier <info@sacmausocial.org>, China industrial supply for dry fog humidifier <raymon7217@gmail.com>
+Subject: DONATE - China industrial supply for dry fog humidifier
+Message-ID: <71ffc788c7861816831c85d1c43e8589@sacmausocial.org>
+X-Priority: 3
+X-Mailer: PHPMailer 5.1 (phpmailer.sourceforge.net)
+MIME-Version: 1.0
+Content-Transfer-Encoding: 8bit
+Content-Type: text/html; charset="utf-8"
+
+<h3 style="text-align: center;">THÔNG TIN <span style="color:red">DONATE</span></h3><table rules="all" style="border-color:#ccc;border:1px solid #ccc;width:400px;padding:5px;text-align: center;margin:auto;">
+				
+				<tr>
+					<th colspan="2">Thư liên hệ từ website <a href="sacmausocial.org">sacmausocial.org</a></th>
+				</tr>
+				<tr>
+					<th colspan="2">&nbsp;</th>
+				</tr>
+				<tr>
+					<th>Tên cá nhân :</th><td>China industrial supply for dry fog humidifier</td>
+				</tr>
+				<tr>
+					<th>Tên tổ chức :</th><td></td>
+				</tr>
+				<tr>
+					<th>Điện Thoại :</th><td></td>
+				</tr>
+				<tr>
+					<th>Email :</th><td>raymon7217@gmail.com</td>
+				</tr>
+				<tr>
+					<th>Mục đích</th><td><br><br></td>
+				</tr>
+				<tr>
+					<th>Cho dự án: </th><td><br><br><br><br><br></td>
+				</tr>
+				<tr>
+					<th>Nội dung :</th><td>Dear Sir/Madam 
+We get your name and email address from Exhibition 
+that you are in the market for dry fog humidifier. 
+We would like to introduce our company and products, 
+hope that we may build business cooperation in the future. 
+We are factory specializing in the manufacture and export of dry fog humidifier and spray nozzle. 
+We have profuse designs with quality grade, and expressly, 
+our price is very competitive because we are manufacturer, we are the source. 
+You are welcome to visit our website http://chinabaiyue.com 
+which includes our company profiles, and some latest designs. 
+Could any of these items be of interest to you, please let us know, we will be happy to give you details. 
+As a very active manufactures, we develop new designs nearly every month, 
+If you have interest in it, it`s my pleasure to offer news to you regularly. 
+Best regards, 
+Miss.Cathy Tang --Sales Manager 
+Shanghai BaiYue Technology Co., Ltd 
+Add: Greenland Zhizun, Fengxian District, Shanghai 
+Website: http://chinabaiyue.com 
+Email: raymon7217@gmail.com 
+Mob/whatsapp:0086-17891935153</td>
+				</tr>
+				</table>
+
+
+
+--1605621812-eximdsn-70211520--
