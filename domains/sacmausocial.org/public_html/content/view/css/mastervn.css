@@ -5010,13 +5010,14 @@ a.catHover.active {
             height: 60px;
             overflow: hidden;
             text-align: center;
-            font-size: 11pt;
+            font-size: 14pt;
             color: #000;
             font-weight: 400;
             -moz-transition: all ease-in-out 0.3s;
             -o-transition: all ease-in-out 0.3s;
             -webkit-transition: all ease-in-out 0.3s;
             transition: all ease-in-out 0.3s;
+            padding-top: 17px;
         }
 
         .galleryList .items a:hover h3 {
@@ -5219,14 +5220,13 @@ a.catHover.active {
     position: relative;
 }
 .item-video .ten-video{
-    position: absolute;
+    position: relative;
     width: calc(100% - 30px);
-    height: 20%;
+    height: 49px;
     left: 0;
     right: 0;
     bottom: 0;
     margin: auto;
-    background: #ffffff7a;
     top: 0;
     padding: 15px;
     color: #000;

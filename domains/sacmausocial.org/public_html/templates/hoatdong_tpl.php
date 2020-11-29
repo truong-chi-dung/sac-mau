@@ -16,8 +16,6 @@
                 ?>
                     <li class="litab <?php if($k==0){ echo 'active';}?>"><a href="#thongso-<?=$k?>"><?=$v['ten_vi']?></a></li>
                 <?php } ?>
-                <li><a target="_blank" href="<?=$links?>">Kho media</a></li>
-                <li><a href="#wrap-ncc" class="various">Đăng ký tham gia góp ý</a></li>
             </ul>
             <div class="tab-content">
                 <?php foreach($hoatdong_cat as $k=>$v){ 
