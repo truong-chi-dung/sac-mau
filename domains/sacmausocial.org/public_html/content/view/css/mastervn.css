@@ -436,7 +436,6 @@ body header#header #menu ul {
 
         #boxSliderHome ul li {
             position: relative;
-            max-height: 600px;
             overflow: hidden;
         }
 
