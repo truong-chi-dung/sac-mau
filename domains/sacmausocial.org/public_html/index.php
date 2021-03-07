@@ -89,8 +89,19 @@
                     <section class="boxBannerAds">
                         <div class="row">
                             <div class="">
-                                <a href="#wrap-ncc" class="various hidden-xs"><img alt="donate" src="<?=_upload_hinhanh_l.$row_donggopdt[0]['photo_vi']?>" /></a>
-                                <a href="#wrap-ncc" class="various visible-xs"><img alt="donate" src="<?=_upload_hinhanh_l.$row_donggop[0]['photo_vi']?>" /></a>
+                                  <img alt="donate" class="various hidden-xs" src="<?=_upload_hinhanh_l.$row_donggopdt[0]['photo_vi']?>" usemap="#donateFullClickAreas"/>
+                                  <map name="donateFullClickAreas">
+                                    <area shape="rect" coords="544,199,219,0" alt="Donate" href="donation.html">
+                                    <area shape="rect" coords="740,199,544,0" alt="Volunteer" href="volunteer.html">
+                                    <area shape="rect" coords="742,0,913,199" alt="Mentor" href="mentor.html">
+                                  </map>
+
+                                  <img alt="donate" class="various visible-xs" src="<?=_upload_hinhanh_l.$row_donggop[0]['photo_vi']?>" usemap="#donateClickAreas"/>
+                                  <map name="donateClickAreas">
+                                    <area shape="rect" coords="1,88,349,263" alt="Donate" href="donation.html">
+                                    <area shape="rect" coords="3,264,167,431" alt="Volunteer" href="volunteer.html">
+                                    <area shape="rect" coords="168,264,350,431" alt="Mentor" href="mentor.html">
+                                  </map>
                             </div>
                         </div>
                     </section>
@@ -137,8 +148,12 @@ $(document).ready(function() {
         closeEffect : 'none'
     });
 });
-</script> 
+</script>
+<script type="text/javascript" src="libraries/responsive-map/imageMapResizer.min.js"></script>
+<script type="text/javascript">
+  $('map').imageMapResize();
+</script>
     
-<?=$row_setting['scriptcode_body']?>     
+<?=$row_setting['scriptcode_body']?>
 </body>
 </html>

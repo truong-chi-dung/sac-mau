@@ -28,7 +28,16 @@
             break;
         case 'se-chia' :
             echo 'Sẻ chia';
-            break;
+            break;        
+        case 'donation':
+          echo 'Đóng góp';
+          break;
+        case 'volunteer':
+          echo 'Đăng kí làm thành viên';
+          break;
+        case 'mentor':
+          echo 'Đăng kí làm Mentor';
+          break;
         default:
             echo 'Không tìm thấy';
             break;
