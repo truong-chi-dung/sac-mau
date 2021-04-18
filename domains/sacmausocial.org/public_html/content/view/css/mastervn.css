@@ -211,6 +211,7 @@ body header#header #menu {
     width: 100%;
   /*   padding: 20px 0;
     margin: 15px 0 0; */
+    box-shadow: 0px 4px 7px #27272780;
 }
 
     body header#header #menu > .container {
@@ -3413,6 +3414,7 @@ a.to-top {
     z-index: 10000;
     padding: 5px 15px;
     font-size: 11pt;
+    display: none;
 }
 
     .top-header a {
