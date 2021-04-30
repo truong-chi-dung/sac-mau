@@ -8,8 +8,10 @@
                             <div class="img">
                                 <img class="" src="thumb/410x300/1/<?=_upload_baiviet_l.$v['photo']?>" alt="<?=$v['ten_'.$lang]?>" title="<?=$v['ten_'.$lang]?>">
                             </div>
-                            <h3><?=$v['ten_'.$lang]?></h3>
-                        </a>                        <div class="description"> <?=catchuoi($v['mota_'.$lang],300);?></div>
+                            <div style="height: 40px;">
+                              <h4><?=$v['ten_'.$lang]?></h4>
+                            </div>
+                        </a>                        <div class="description"> <?=catchuoi($v['mota_'.$lang],200);?></div>
 
                     </div>
                 </div>
