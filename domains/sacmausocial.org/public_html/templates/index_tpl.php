@@ -1,39 +1,3 @@
-	<div class="container-fluid bgWhite pd40">
-		<div class="container"> <strong><span class="fzfix">Sắc Màu - Vì Cuộc Sống Tốt Đẹp Hơn</span></strong>
-			<h4 class="h4fix"><span class="fz20"><strong>Chắp cánh những ước mơ</strong></span></h4>
-		</div>
-	</div>
-	<div class="container-fluid boxgioithieu">
-		<div class="container">
-			<section class="boxBannerAds">
-				<div class="row">
-					<div class="col-sm-12">
-						<h3 class="h3fix">HOẠT ĐỘNG</h3> </div>
-					</div>
-					<div class="row">
-						<div class="productList nguyen-productList slick-chiase">
-							<?php
-							$d->reset();
-							$result_hoatdong="select ten_$lang,tenkhongdau,id ,photo,ngaytao, motain_vi from #_baiviet_list where hienthi=1 and type='hoatdong' and noibat=1 order by stt,id desc ";    
-							$d->query($result_hoatdong); 
-							$result_hoatdong=$d->result_array();
-							foreach($result_hoatdong as $k=>$v){
-								?>
-								<div class="items">
-									<div class="box-item">
-										<a class="img" href="hoat-dong/<?=$v['tenkhongdau']?>.html" title="<?=$v['ten_vi']?>"> <img class="lazy" src="thumb/403x299/1/<?=_upload_baiviet_l.$v['photo']?>" alt="<?=$v['ten_vi']?>" title="<?=$v['ten_vi']?>" /> </a> <a class="title" href="hoat-dong/<?=$v['tenkhongdau']?>.html" title="<?=$v['ten_vi']?>"><?=$v['ten_vi']?></a>
-										<div class="description"><?=$v['motain_vi']?></div>
-										<div class="clearfix"></div>
-									</div>
-								</div>
-							<?php } ?>
-							
-						</div>
-					</div>
-					
-			</section>
-		</div>
-	</div>
 <div class="container-fluid bgWhite pd50">
 	<div class="wrap-news">
 		<div class="container">
@@ -54,13 +18,6 @@
 				<?=$baiviet_tintuc['noidung_'.$lang]?>
 			</div>
 
-			<div class="tab-danhmuc">
-				<ul>
-					<?php foreach ($danhmuc_news as $key => $value) { ?>
-						<li><a href="tin-tuc/<?=$value['tenkhongdau']?>.html"><?=$value['ten_'.$lang]?></a></li>
-					<?php } ?>
-				</ul>
-			</div>
 			<div class="row row-fix">				
 				<div class="col-sm-6 col-md-6 colLeft">
 					<?php
@@ -142,64 +99,6 @@
 					</div>
 				</div>
 				<div class="clearfix"></div>
-			</div>
-		</div>
-	</div>
-</div>
-<div class="container-fluid bgWhite pd50">
-	<div class="container">
-		<div class="row row-fix">
-			<div class="col-sm-12">
-				<h3  class="h3fix">SẺ CHIA</h3>
-				<div class="productList nguyen-productList sechia-list">
-					<div class=" row">
-						<?php
-						$d->reset();
-						$result_sechia="select ten_$lang,tenkhongdau,id ,photo,ngaytao, motain_vi from #_baiviet_list where hienthi=1 and type='sechia' and noibat=1 order by stt,id desc ";    
-						$d->query($result_sechia); 
-						$result_sechia=$d->result_array();
-						foreach($result_sechia as $k=>$v){
-							?>
-							<div class="col-xs-12 col-sm-4">
-								<div class="items">
-									<div class="box-item">
-										<a class="img" href="se-chia/<?=$v['tenkhongdau']?>.html" title="<?=$v['ten_vi']?>"> <img class="lazy" src="thumb/403x299/1/<?=_upload_baiviet_l.$v['photo']?>" alt="<?=$v['ten_vi']?>" title="<?=$v['ten_vi']?>" /> </a> <a class="title" href="se-chia/<?=$v['tenkhongdau']?>.html" title="<?=$v['ten_vi']?>"><?=$v['ten_vi']?></a>
-										<div class="description"><?=$v['motain_vi']?></div>
-										<div class="clearfix"></div>
-									</div>
-									
-									<div class="box-bottom">
-										<ul>
-											<?php
-												$d->reset();
-												$rs_chiase="select ten_$lang,tenkhongdau,id ,mota_$lang, photo from #_baiviet where hienthi=1 and type='sechia' and noibat=1 and id_list='".$v['id']."' order by stt,id desc";    
-												$d->query($rs_chiase); 
-												$rs_chiase=$d->result_array();
-												foreach($rs_chiase as $k1=>$v1){
-											?>
-												<li>
-													<a href="se-chia/<?=$v1['tenkhongdau']?>-<?=$v1['id']?>.html" title="<?=$v1['ten_vi']?>">
-														<h3><?=$v1['ten_vi']?></h3>
-														<div class="rowfix">
-															<div class="img">
-																<img class="lazy" src="thumb/100x75/1/<?=_upload_baiviet_l.$v1['photo']?>" alt="<?=$v1['ten_vi']?>" title="<?=$v1['ten_vi']?>" />
-															</div>
-															<div class="descriptionx">
-																
-																<div class="desc"><?=catchuoi($v1['mota_vi'],200);?></div>
-															</div>
-														</div>
-													 </a>
-												</li>
-											<?php } ?>
-										</ul>
-									</div>
-								</div>
-							</div>
-						<?php } ?>
-						<div class="clearfix"></div>
-					</div>
-				</div>
 			</div>
 		</div>
 	</div>

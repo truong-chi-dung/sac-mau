@@ -33,7 +33,7 @@
                                     <?php } ?>
                                 </ul>
                             </li>
-                            <li class="menu-hoatdong"> <a href="javascript:void(0)" target="_self" class="hoatdong cat-0 menu-li-4-nguyen">  Hoạt động </a>
+                            <li class="menu-hoatdong"> <a href="" target="_self" class="hoatdong cat-0 menu-li-4-nguyen">  Hoạt động </a>
                                 <ul class="dropdown-menu">
                                     <?php
                                         $d->reset();

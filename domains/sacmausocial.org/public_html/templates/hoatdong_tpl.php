@@ -29,6 +29,7 @@
                         <?php foreach($rs_hoatdong as $k1=>$v1){ ?>
                             <h3><?=$v1['ten_vi']?></h3>
                             <div class="desc"><?=$v1['noidung_vi']?></div>
+                            <hr>
                         <?php } ?>
                     </div>
                 <?php } ?>
@@ -50,9 +51,4 @@
         });        
     })
 </script>
-<!-- <div class="bannerPrallax">
-    <div class="">
-        <h1><?=$title_detail?></h1>
-        <div class="parallax-banner parallaxor-container"> <img src="<?=_upload_hinhanh_l.$hoatdong['photo_'.$lang]?>" alt="<?=$title_detail?>" class="parallaxor-layer" style="transform: translate(0px, 12.3511px);"> </div>
-    </div>
-</div> -->
+

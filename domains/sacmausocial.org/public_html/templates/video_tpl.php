@@ -3,14 +3,18 @@
 <link rel="stylesheet" href="fancy/jquery.fancybox-thumbs.css" type="text/css" media="screen" />
 
 <div class="container-fix" style="padding: 30px 0;">
-
+    <div class="row">
     <?php
     if($_GET['idl']!=''){
         for($i=0,$count=count($tintuc);$i<$count;$i++)
         {					
             ?>
-            <div class="col-xs-12 col-sm-6 col-md-4 item-video">
-                <div class="bg-video"><a title="<?=$tintuc[$i]['ten_'.$lang]?>" class="various fancybox.iframe" href="http://www.youtube.com/embed/<?=youtobi($tintuc[$i]['links']);?>?autoplay=1"><img src="https://i.ytimg.com/vi/<?=youtobi($tintuc[$i]['links']);?>/maxresdefault.jpg" class="img-responsive" /></a></div>  
+            <div class="col-xs-12 col-sm-6 col-md-4">
+                <div class="bg-video">
+                  <a title="<?=$tintuc[$i]['ten_'.$lang]?>" class="various fancybox.iframe" href="https://www.youtube.com/embed/<?=getYoutubeIdFromUrl($tintuc[$i]['links']);?>?autoplay=1">
+                    <img src="https://img.youtube.com/vi/<?=getYoutubeIdFromUrl($tintuc[$i]['links'])?>/hqdefault.jpg"/>
+                  </a>
+                </div>  
                 <div class="ten-tintuc"><a><?php echo $tintuc[$i]["ten_".$lang] ?></a></div>                        
             </div>
         <?php } } else{
@@ -26,4 +30,5 @@
         <div class="phantrang" style="text-align:center" ><?=$paging['paging']?></div> 
 
     </div>     
+</div>
     <div class="clearfix"></div>
